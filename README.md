@@ -1,2 +1,4 @@
 # html-portfolio
-JFL-HTML Portfolio, don't take it too seriously :)
+JFL-HTML Portfolio :)
+
+link to live site
